@@ -67,6 +67,7 @@ ASP.NET Core
 
 -   [Localization](Localization.md)
 -   [Navigation](Navigation.md)
+-   [Alerts](UI-Alerts.md)
 -   [Embedded Resources](Embedded-Resource-Files.md)
 -   [Javascript API](/Pages/Documents/Javascript-API)
 -   [CSRF/XSRF Protection](XSRF-CSRF-Protection.md)
@@ -93,6 +94,7 @@ Object-Relational Mapping
 Releases
 
 - [Nuget Packages](Nuget-Packages.md)
+- [Nightly Builds](Nightly-Builds.md)
 - [Change Logs & Releases](https://github.com/aspnetboilerplate/aspnetboilerplate/releases)
 
 ### Module Zero
